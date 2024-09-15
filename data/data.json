@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "quote": "It takes courage to grow up and become who you really are.",
+    "author": "E.E. Cummings"
+  },
+  {
+    "id": 2,
+    "quote": "Your self-worth is determined by you. You don't have to depend on someone telling you who you are.",
+    "author": "Beyoncé"
+  },
+  {
+    "id": 3,
+    "quote": "Nothing is impossible. The word itself says 'I'm possible!'",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "id": 4,
+    "quote": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 5,
+    "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And you are the guy who'll decide where to go.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "id": 6,
+    "quote": "Attitude is a little thing that makes a big difference.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 7,
+    "quote": "To bring about change, you must not be afraid to take the first step. We will fail when we fail to try.",
+    "author": "Rosa Parks"
+  },
+  {
+    "id": 8,
+    "quote": "All our dreams can come true, if we have the courage to pursue them.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 9,
+    "quote": "Don't sit down and wait for the opportunities to come. Get up and make them.",
+    "author": "Madam C.J. Walker"
+  },
+  {
+    "id": 10,
+    "quote": "Champions keep playing until they get it right.",
+    "author": "Billie Jean King"
+  },
+  {
+    "id": 11,
+    "quote": "I am lucky that whatever fear I have inside me, my desire to win is always stronger.",
+    "author": "Serena Williams"
+  },
+  {
+    "id": 12,
+    "quote": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "id": 13,
+    "quote": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle"
+  },
+  {
+    "id": 14,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 15,
+    "quote": "Life shrinks or expands in proportion to one’s courage.",
+    "author": "Anaïs Nin"
+  },
+  {
+    "id": 16,
+    "quote": "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong.",
+    "author": "Ella Fitzgerald"
+  },
+  {
+    "id": 17,
+    "quote": "Try to be a rainbow in someone's cloud.",
+    "author": "Maya Angelou"
+  },
+  {
+    "id": 18,
+    "quote": "If you don't like the road you're walking, start paving another one.",
+    "author": "Dolly Parton"
+  },
+  {
+    "id": 19,
+    "quote": "Real change, enduring change, happens one step at a time.",
+    "author": "Ruth Bader Ginsburg"
+  },
+  {
+    "id": 20,
+    "quote": "All dreams are within reach. All you have to do is keep moving towards them.",
+    "author": "Viola Davis"
+  },
+  {
+    "id": 21,
+    "quote": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "id": 22,
+    "quote": "When you put love out in the world it travels, and it can touch people and reach people in ways that we never even expected.",
+    "author": "Laverne Cox"
+  },
+  {
+    "id": 23,
+    "quote": "Give light and people will find the way.",
+    "author": "Ella Baker"
+  },
+  {
+    "id": 24,
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "id": 25,
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "id": 26,
+    "quote": "If you risk nothing, then you risk everything.",
+    "author": "Geena Davis"
+  },
+  {
+    "id": 27,
+    "quote": "Definitions belong to the definers, not the defined.",
+    "author": "Toni Morrison"
+  },
+  {
+    "id": 28,
+    "quote": "When you have a dream, you've got to grab it and never let go.",
+    "author": "Carol Burnett"
+  },
+  {
+    "id": 29,
+    "quote": "Never allow a person to tell you no who doesn’t have the power to say yes.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 30,
+    "quote": "When it comes to luck, you make your own.",
+    "author": "Bruce Springsteen"
+  },
+  {
+    "id": 31,
+    "quote": "If you're having fun, that's when the best memories are built.",
+    "author": "Simone Biles"
+  },
+  {
+    "id": 32,
+    "quote": "Failure is the condiment that gives success its flavor.",
+    "author": "Truman Capote"
+  },
+  {
+    "id": 33,
+    "quote": "Hard things will happen to us. We will recover. We will learn from it. We will grow more resilient because of it.",
+    "author": "Taylor Swift"
+  },
+  {
+    "id": 34,
+    "quote": "Your story is what you have, what you will always have. It is something to own.",
+    "author": "Michelle Obama"
+  },
+  {
+    "id": 35,
+    "quote": "To live is the rarest thing in the world. Most people just exist.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 36,
+    "quote": "You define beauty yourself, society doesn’t define your beauty.",
+    "author": "Lady Gaga"
+  },
+  {
+    "id": 37,
+    "quote": "Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.",
+    "author": "Mary Lou Retton"
+  },
+  {
+    "id": 38,
+    "quote": "You just gotta keep going and fighting for everything, and one day you’ll get to where you want.",
+    "author": "Naomi Osaka"
+  },
+  {
+    "id": 39,
+    "quote": "If you prioritize yourself, you are going to save yourself.",
+    "author": "Gabrielle Union"
+  },
+  {
+    "id": 40,
+    "quote": "No matter how far away from yourself you may have strayed, there is always a path back. You already know who you are and how to fulfill your destiny.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "id": 41,
+    "quote": "A problem is a chance for you to do your best.",
+    "author": "Duke Ellington"
+  },
+  {
+    "id": 42,
+    "quote": "You can’t turn back the clock. But you can wind it up again.",
+    "author": "Bonnie Prudden"
+  },
+  {
+    "id": 43,
+    "quote": "When you can’t find someone to follow, you have to find a way to lead by example.",
+    "author": "Roxane Gay"
+  },
+  {
+    "id": 44,
+    "quote": "There is no better compass than compassion.",
+    "author": "Amanda Gorman"
+  },
+  {
+    "id": 45,
+    "quote": "Stand before the people you fear and speak your mind – even if your voice shakes.",
+    "author": "Maggie Kuhn"
+  },
+  {
+    "id": 46,
+    "quote": "It’s a toxic desire to try to be perfect. I realized later in life that the challenge is not to be perfect. It’s to be whole.",
+    "author": "Jane Fonda"
+  },
+  {
+    "id": 47,
+    "quote": "Vitality shows not only in the ability to persist but in the ability to start over.",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 48,
+    "quote": "The most common way people give up their power is by thinking they don’t have any.",
+    "author": "Alice Walker"
+  },
+  {
+    "id": 49,
+    "quote": "Love yourself first and everything else falls into line.",
+    "author": "Lucille Ball"
+  },
+  {
+    "id": 50,
+    "quote": "In three words I can sum up everything I've learned about life: It goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 51,
+    "quote": "Nothing beautiful is easy",
+    "author": "Nourhan Sharkas"
+  }
+]
